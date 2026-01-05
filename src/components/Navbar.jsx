@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <h2>Ranjitha</h2>
+      <h2>Ranjitha J U</h2>
       <div>
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
